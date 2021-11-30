@@ -1,1 +1,2 @@
-# MobileProject_FlappyBird_iOS
+# MobileProject_FlappyBird
+Flappy Bird na projekt aplikacji mobilnych studia
